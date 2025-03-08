@@ -1,0 +1,12 @@
+{
+  "description": "My github portfolio",
+  "repo": "https://github.com/AlienWolfX/alienwolfx.github.io",
+  "owner": {
+    "username": "AlienWolfX",
+    "email": "cruizallen2@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://alienwolfx.github.io"
+  },
+  "proxied": true
+}
